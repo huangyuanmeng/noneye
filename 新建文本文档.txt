@@ -1,0 +1,5 @@
+要求：
+1.bootstarap排版
+2.mock数据渲染
+3.轮播
+4.上传github
